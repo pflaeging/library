@@ -48,7 +48,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/httpd-24-rhel7"
+					"name": "registry.access.redhat.com/rhscl/httpd-24-rhel7"
 				},
 				"generation": null,
 				"importPolicy": {},

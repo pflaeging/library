@@ -28,7 +28,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-7/sso71-openshift:1.0"
+					"name": "registry.access.redhat.com/redhat-sso-7/sso71-openshift:1.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -48,7 +48,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-7/sso71-openshift:1.1"
+					"name": "registry.access.redhat.com/redhat-sso-7/sso71-openshift:1.1"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -68,7 +68,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-7/sso71-openshift:1.2"
+					"name": "registry.access.redhat.com/redhat-sso-7/sso71-openshift:1.2"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -88,7 +88,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-7/sso71-openshift:1.3"
+					"name": "registry.access.redhat.com/redhat-sso-7/sso71-openshift:1.3"
 				},
 				"generation": null,
 				"importPolicy": {},

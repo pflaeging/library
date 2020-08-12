@@ -27,7 +27,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.0"
+					"name": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -47,7 +47,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.1"
+					"name": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.1"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -67,7 +67,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.2"
+					"name": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.2"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -87,7 +87,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.3"
+					"name": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.3"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -107,7 +107,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.4"
+					"name": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.4"
 				},
 				"generation": null,
 				"importPolicy": {},

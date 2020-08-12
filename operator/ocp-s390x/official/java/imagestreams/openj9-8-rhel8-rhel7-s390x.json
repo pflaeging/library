@@ -31,7 +31,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/openj9/openj9-8-rhel8:1.1"
+					"name": "registry.access.redhat.com/openj9/openj9-8-rhel8:1.1"
 				},
 				"generation": null,
 				"importPolicy": {},

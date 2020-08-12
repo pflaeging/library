@@ -291,7 +291,7 @@
 		{
 			"name": "IMAGE",
 			"description": "Sets an image to bootstrap the service.",
-			"value": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift",
+			"value": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift",
 			"required": true
 		},
 		{

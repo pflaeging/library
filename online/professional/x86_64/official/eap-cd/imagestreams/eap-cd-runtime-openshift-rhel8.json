@@ -27,7 +27,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:latest"
+					"name": "registry.access.redhat.com/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -107,7 +107,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:18.0"
+					"name": "registry.access.redhat.com/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:18.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -127,7 +127,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:19.0"
+					"name": "registry.access.redhat.com/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:19.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -147,7 +147,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:20.0"
+					"name": "registry.access.redhat.com/jboss-eap-7-tech-preview/eap-cd-runtime-openshift-rhel8:20.0"
 				},
 				"generation": null,
 				"importPolicy": {},

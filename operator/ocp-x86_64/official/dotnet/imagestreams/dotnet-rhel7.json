@@ -50,7 +50,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/dotnet/dotnet-31-rhel7:3.1"
+					"name": "registry.access.redhat.com/dotnet/dotnet-31-rhel7:3.1"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -73,7 +73,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/dotnet/dotnet-21-rhel7:2.1"
+					"name": "registry.access.redhat.com/dotnet/dotnet-21-rhel7:2.1"
 				},
 				"generation": null,
 				"importPolicy": {},

@@ -28,7 +28,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-cd-tech-preview/sso-cd-openshift-rhel8:latest"
+					"name": "registry.access.redhat.com/redhat-sso-cd-tech-preview/sso-cd-openshift-rhel8:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -48,7 +48,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/redhat-sso-cd-tech-preview/sso-cd-openshift-rhel8:7"
+					"name": "registry.access.redhat.com/redhat-sso-cd-tech-preview/sso-cd-openshift-rhel8:7"
 				},
 				"generation": null,
 				"importPolicy": {},

@@ -32,7 +32,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/openjdk/openjdk-11-rhel7:1.0"
+					"name": "registry.access.redhat.com/openjdk/openjdk-11-rhel7:1.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -54,7 +54,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/openjdk/openjdk-11-rhel7:1.1"
+					"name": "registry.access.redhat.com/openjdk/openjdk-11-rhel7:1.1"
 				},
 				"generation": null,
 				"importPolicy": {},

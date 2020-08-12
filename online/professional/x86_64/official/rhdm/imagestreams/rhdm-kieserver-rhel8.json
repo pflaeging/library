@@ -25,7 +25,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhdm-7/rhdm-kieserver-rhel8:7.8.0"
+					"name": "registry.access.redhat.com/rhdm-7/rhdm-kieserver-rhel8:7.8.0"
 				},
 				"generation": null,
 				"importPolicy": {},

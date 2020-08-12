@@ -26,7 +26,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-6/datagrid65-client-openshift:1.0"
+					"name": "registry.access.redhat.com/jboss-datagrid-6/datagrid65-client-openshift:1.0"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -45,7 +45,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/jboss-datagrid-6/datagrid65-client-openshift:1.1"
+					"name": "registry.access.redhat.com/jboss-datagrid-6/datagrid65-client-openshift:1.1"
 				},
 				"generation": null,
 				"importPolicy": {},

@@ -44,7 +44,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp21/apicast-gateway:1.4-2"
+					"name": "registry.access.redhat.com/3scale-amp21/apicast-gateway:1.4-2"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -64,7 +64,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp22/apicast-gateway:1.8"
+					"name": "registry.access.redhat.com/3scale-amp22/apicast-gateway:1.8"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -84,7 +84,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp23/apicast-gateway"
+					"name": "registry.access.redhat.com/3scale-amp23/apicast-gateway"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -104,7 +104,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp24/apicast-gateway"
+					"name": "registry.access.redhat.com/3scale-amp24/apicast-gateway"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -124,7 +124,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp25/apicast-gateway"
+					"name": "registry.access.redhat.com/3scale-amp25/apicast-gateway"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -144,7 +144,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp26/apicast-gateway"
+					"name": "registry.access.redhat.com/3scale-amp26/apicast-gateway"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -164,7 +164,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp2/apicast-gateway-rhel7:3scale2.7"
+					"name": "registry.access.redhat.com/3scale-amp2/apicast-gateway-rhel7:3scale2.7"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -184,7 +184,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp2/apicast-gateway-rhel8:3scale2.8"
+					"name": "registry.access.redhat.com/3scale-amp2/apicast-gateway-rhel8:3scale2.8"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -204,7 +204,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/3scale-amp2/apicast-gateway-rhel8:3scale2.9"
+					"name": "registry.access.redhat.com/3scale-amp2/apicast-gateway-rhel8:3scale2.9"
 				},
 				"generation": null,
 				"importPolicy": {},

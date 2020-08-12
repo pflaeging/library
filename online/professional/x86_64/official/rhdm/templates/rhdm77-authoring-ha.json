@@ -1710,7 +1710,7 @@
 			"name": "DATAGRID_IMAGE",
 			"displayName": "DataGrid Image",
 			"description": "DataGrid image.",
-			"value": "registry.redhat.io/jboss-datagrid-7/datagrid73-openshift:1.5",
+			"value": "registry.access.redhat.com/jboss-datagrid-7/datagrid73-openshift:1.5",
 			"required": true
 		},
 		{
@@ -1738,7 +1738,7 @@
 			"name": "AMQ_BROKER_IMAGE",
 			"displayName": "Image",
 			"description": "AMQ Broker Image",
-			"value": "registry.redhat.io/amq7/amq-broker:7.5",
+			"value": "registry.access.redhat.com/amq7/amq-broker:7.5",
 			"required": true
 		},
 		{

@@ -47,7 +47,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/devtools/go-toolset-rhel7:1.11.5"
+					"name": "registry.access.redhat.com/devtools/go-toolset-rhel7:1.11.5"
 				},
 				"generation": null,
 				"importPolicy": {},

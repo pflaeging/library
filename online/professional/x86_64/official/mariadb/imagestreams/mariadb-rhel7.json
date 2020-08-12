@@ -44,7 +44,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/mariadb-103-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/mariadb-103-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -64,7 +64,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/mariadb-102-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/mariadb-102-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},

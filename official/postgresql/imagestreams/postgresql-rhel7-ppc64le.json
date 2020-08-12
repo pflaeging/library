@@ -44,7 +44,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/postgresql-12-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/postgresql-12-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -64,7 +64,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/postgresql-10-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/postgresql-10-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},

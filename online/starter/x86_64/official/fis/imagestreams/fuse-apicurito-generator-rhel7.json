@@ -23,7 +23,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/fuse7/fuse-apicurito-generator:1.2"
+					"name": "registry.access.redhat.com/fuse7/fuse-apicurito-generator:1.2"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -40,7 +40,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/fuse7/fuse-apicurito-generator:1.3"
+					"name": "registry.access.redhat.com/fuse7/fuse-apicurito-generator:1.3"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -57,7 +57,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/fuse7/fuse-apicurito-generator:1.4"
+					"name": "registry.access.redhat.com/fuse7/fuse-apicurito-generator:1.4"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -74,7 +74,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/fuse7/fuse-apicurito-generator:1.5"
+					"name": "registry.access.redhat.com/fuse7/fuse-apicurito-generator:1.5"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -91,7 +91,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/fuse7/fuse-apicurito-generator:1.6"
+					"name": "registry.access.redhat.com/fuse7/fuse-apicurito-generator:1.6"
 				},
 				"generation": null,
 				"importPolicy": {},

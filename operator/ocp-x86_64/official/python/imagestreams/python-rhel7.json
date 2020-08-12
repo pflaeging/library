@@ -48,7 +48,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/python-38-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/python-38-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -70,7 +70,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/python-36-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/python-36-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -92,7 +92,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/python-27-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/python-27-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},

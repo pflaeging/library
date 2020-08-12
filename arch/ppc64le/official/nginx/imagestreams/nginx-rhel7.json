@@ -48,7 +48,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/nginx-116-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/nginx-116-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
@@ -70,7 +70,7 @@
 				},
 				"from": {
 					"kind": "DockerImage",
-					"name": "registry.redhat.io/rhscl/nginx-114-rhel7:latest"
+					"name": "registry.access.redhat.com/rhscl/nginx-114-rhel7:latest"
 				},
 				"generation": null,
 				"importPolicy": {},
